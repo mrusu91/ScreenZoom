@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Screen Zoom</string>
+    <string name="stock">Stock</string>
+    <string name="custom">Custom</string>
+    <string name="start">Start Service</string>
+    <string name="stop">Stop Service</string>
+    <string name="no_root">Screen Zoom needs a rooted device to work properly. \n\nNOTE: Rooting a device voids the warranty!</string>
+    <string name="ok">OK!</string>
+    <string name="installing">Installing . . .</string>
+    <string name="install_error">Installation failed!</string>
+
+</resources>
